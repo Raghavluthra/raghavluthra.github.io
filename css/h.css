@@ -1,0 +1,165 @@
+#img{
+  width: 65em;
+  height:  40em;
+}
+
+#div1{
+width: 100%;
+height: 100%;
+color: aliceblue;
+background-image: url("F:\\VisualStudio\\fullstack_development_projects_projects\\portfolio\\images\\image1.jpg");
+  background-attachment:scroll;
+  
+}
+
+#table1{
+border: solid .5px;
+border-right: 0px;
+border-left: 0px;
+width: 100%;
+height: 3em;
+margin-top:em;
+color: white;
+position: fixed;
+top:0;
+}
+
+#td1{
+font-size: 2em;
+text-align: center;
+width: 5em;
+}
+
+#td2{
+font-size: 2em;
+text-align: center;
+width: 5em;
+}
+
+#td3{
+font-size: 2em;
+text-align: center;
+width: 5em;
+}
+.project{
+  font-size: 25px;
+  padding:20px;
+}
+#p3{
+  font-size: 1.3em;
+  padding:20px;
+}
+
+#td4{
+font-size: 2em;
+text-align: center;
+width: 5em;
+}
+
+#td5{
+font-size: 2em;
+text-align: center;
+width: 20em;
+}
+
+.div2{
+border:solid black;
+background-color:black;
+margin-top: 2em;
+height: 40em;
+opacity: 1;
+margin-left: 10em;
+margin-right: 10em;
+color:aliceblue;
+}
+
+#div11{
+border: solid;
+background-color: aliceblue;
+margin-top: 10em;
+height: 40em;
+margin-left: 10em;
+margin-right: 10em;
+color: aliceblue;
+}
+
+.head{
+color: aliceblue;
+font-size: 5em;
+margin-left: 2em;
+text-decoration: underline;
+}
+
+#div12{
+border: solid;
+margin-top: -12em;
+font-size: 50px;
+font-style: normal;
+font-family: cursive;
+ margin-left: 1em;
+ 
+}
+
+#p1{
+color: aliceblue;
+font-size: .5em;
+}
+
+.rounded{
+height:36em;
+width: 27em;
+margin-top:2em;
+margin-left: 2em;
+border: solid white;
+}
+.info
+{
+  font-size: 1.3em;
+}
+#div22{
+margin-left: 2em;
+height: 4em;
+}
+
+#p2{
+font-size:2px;
+}
+
+#div5{
+border: solid black;
+height: 36em;
+width: 33em;
+margin-left: 30em;
+margin-right: 5em;
+margin-top: -36.76em;
+background-color:black;
+opacity: .7;
+}
+
+.div6{ height: 4em;
+      width: 100%;
+      margin-top: 5em;
+}
+
+.links{
+color: aliceblue; 
+text-decoration: none;
+}
+
+#table2{
+height: 40em;
+border: solid white;
+width: 100%;
+}
+
+.email{
+font-size: 3em;
+margin-left:1em ;
+}
+
+.i1{
+height: 6em;
+width: 6em;
+margin-left: 4em;
+margin-top: 5em;
+}
